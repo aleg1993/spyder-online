@@ -4,7 +4,6 @@ dependencies:
   - python=3.11
   - spyder
   - jupyter-server-proxy
-  - xfce4
   - numpy
   - pandas
   - matplotlib
