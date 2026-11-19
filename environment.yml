@@ -1,10 +1,10 @@
-name: spyder-env
 channels:
   - conda-forge
 dependencies:
   - python=3.11
   - spyder
-  - jupyter-desktop-server
+  - jupyter-server-proxy
+  - xfce4
   - numpy
   - pandas
   - matplotlib
